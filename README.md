@@ -86,7 +86,7 @@ Planned security capabilities include:
 | Day 2 | Windows Server baseline and Active Directory deployment | ✅ Complete |
 | Day 3 | Enterprise domain configuration | ✅ Complete |
 | Day 4 | Security logging and telemetry | ✅ Complete |
-| Day 5 | Detection engineering and attack simulation | 🔲 Planned |
+| Day 5 | Detection engineering and attack simulation | ✅ Complete |
 | Day 6 | Threat hunting and incident investigation | 🔲 Planned |
 | Day 7 | Final validation and documentation | 🔲 Planned |
 
