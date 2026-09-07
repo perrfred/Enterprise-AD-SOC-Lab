@@ -105,4 +105,4 @@ As an additional containment measure, the affected domain account was disabled u
 Verification confirmed:
 
 ```text
-alice.martin    False
+alice.martin    False```
