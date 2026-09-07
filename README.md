@@ -238,7 +238,7 @@ The project focuses on understanding how security telemetry can be used to detec
 | Day 4 | Security logging and telemetry | ✅ Complete |
 | Day 5 | Detection engineering and attack simulation | ✅ Complete |
 | Day 6 | Threat hunting and incident investigation | ✅ Complete |
-| Day 7 | Final validation and documentation | 🔲 In Progress |
+| Day 7 | Final validation and documentation | ✅ Complete |
 
 ---
 
@@ -286,8 +286,6 @@ docs/
 │
 └── incidents/
     └── INC-2026-001.md
-
-    ```
 
 ---
 
